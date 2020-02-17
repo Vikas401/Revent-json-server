@@ -1,0 +1,71 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Trip to Tower of London  ",
+      "date": "2018-03-27",
+      "category": "culture",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin ligula eu leo tincidunt, quis scelerisque magna dapibus. Sed eget ipsum vel arcu vehicula ullamcorper.",
+      "city": "London, UK",
+      "venue": "Tower of London, St Katharine's & Wapping, London",
+      "hostedBy": "Bob",
+      "hostPhotoURL": "https://randomuser.me/api/portraits/men/20.jpg",
+      "attendees": [
+        {
+          "id": "a",
+          "name": "Bob",
+          "photoURL": "https://randomuser.me/api/portraits/men/20.jpg"
+        },
+        {
+          "id": "b",
+          "name": "Tom",
+          "photoURL": "https://randomuser.me/api/portraits/men/22.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ck5zevi2n00003b5sgk2pctas",
+      "title": "Trip to Tower of London 1",
+      "date": "2018-03-27",
+      "category": "culture",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin ligula eu leo tincidunt, quis scelerisque magna dapibus. Sed eget ipsum vel arcu vehicula ullamcorper.",
+      "city": "London, UK",
+      "venue": "Tower of London, St Katharine's & Wapping, London",
+      "hostedBy": "Bob",
+      "hostPhotoURL": "/assets/vikas.jpg",
+      "attendees": [
+        {
+          "id": "a",
+          "name": "Bob",
+          "photoURL": "https://randomuser.me/api/portraits/men/20.jpg"
+        },
+        {
+          "id": "b",
+          "name": "Tom",
+          "photoURL": "https://randomuser.me/api/portraits/men/22.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Rashtriya Swayamsevak Sangh ",
+      "category": "culture",
+      "description": "I am join RSS before 3 month ago. i feeling good and satisfied with the tukaram it milan wagholi  nagar pune.  ",
+      "hostedBy": "Vikas Choudhary",
+      "city": "Burhanpur",
+      "venue": "bawdi road near savav hr sec school wagholi pune",
+      "date": "02/17/2020",
+      "id": "ck6q60er400003b5sjax9cll6",
+      "hostPhotoURL": "/assets/vikas.jpg",
+      "photoURL": "/assets/vikas.jpg"
+    }
+  ],
+  "author": [
+    {
+      "userName": "simrita",
+      "email": "simi@gmail.com",
+      "password": "12345678",
+      "contact": "7878598654",
+      "id": 1
+    }
+  ]
+}
